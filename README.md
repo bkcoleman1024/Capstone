@@ -39,7 +39,7 @@ The financial statements should also be analyzed.
 
 ## For More Information
 
-Please review the full analysis in [my Jupyter Notebook](https://github.com/bkcoleman1024/MovieLens/blob/main/Phase%204%20notebook.pdf) or the [presentation](https://github.com/bkcoleman1024/MovieLens/blob/main/Phase%204%20powerpoint.pdf).
+Please review the full analysis in [my Jupyter Notebook](https://github.com/bkcoleman1024/Capstone/blob/main/Capstone.ipynb) or the [presentation](https://github.com/bkcoleman1024/MovieLens/blob/main/Phase%204%20powerpoint.pdf).
 
 For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmail.com
 
