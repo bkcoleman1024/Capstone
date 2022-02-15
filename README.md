@@ -21,14 +21,12 @@ The stock prices for Apple and Procter & Gamble are from Yahoo Finance.  It is o
 
 ## Methods
 
-This project tested Time Series Models.     
+A grid search was used to find the best parameters of p,d, and q.  These parameters were used in the models.   
 
 
 ## Results
 
-The SVD model was the best option.  The predicted rating for a user may be off on average of just under one star on a a scale of .5-5 stars.  
-
-This result was the best out of the three models that were tested.  
+The models predicted the increasing prices of the stocks.  
 
 
 ## Conclusions and next steps
@@ -37,7 +35,7 @@ The models were tested using only two stocks.  The model should be tested on mor
 
 It would be interesting to see if there are any changes to the results if more than one year of stock prices is used.
 
-The financial statements should also be analyzed.
+The financial statements should also be analyzed.  
 
 ## For More Information
 
@@ -51,5 +49,6 @@ For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmai
 ```
 ├── README.md   
 ├── Stock_presentation.pdf
+├── data
 ├── images            
 └── Capstone.ipynb 
