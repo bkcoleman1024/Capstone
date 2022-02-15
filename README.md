@@ -3,15 +3,15 @@
 
 **Author**: Bridget Coleman
 
-![images](images/movie_folders.jpg)
+![images](images/PGproducts.jpg)
 
 ## Overview
 
-User ratings and other movie information was analyzed to produce recommendations for new and existing users.
+Historical stock prices were analyzed 
 
 ## Business Problem
 
-With so many options for users, providing the best possible recommendations for an individual may keep them with a particular service.  
+The market fluctuates.  Is ?????
 
 ## Data
 
