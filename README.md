@@ -15,7 +15,7 @@ The market fluctuates.  Is ?????
 
 ## Data
 
-![images](images/PGstock.png)
+![images](images/PGstock.PNG)
 
 The stock prices for Apple and Procter & Gamble are from Yahoo Finance.  It is one year's worth of data.
 
