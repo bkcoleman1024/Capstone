@@ -3,7 +3,7 @@
 
 **Author**: Bridget Coleman
 
-![images](images/PGproducts.jpg)
+![images](images/AppleStock.PNG)
 
 ## Overview
 
@@ -15,15 +15,14 @@ The market fluctuates.  Is ?????
 
 ## Data
 
-![images](images/User_ratings.png)
+![images](images/PGstock.png)
 
-The data is from movielens.org.  The smaller dataset was used.  The dataset gave information on 610 users and 9,742 movies.  The users rated at least 20 movies.
+The stock prices for Apple and Procter & Gamble are from Yahoo Finance.  It is one year's worth of data.
 
 ## Methods
 
-This project tested several models.  The final model was the one that provided the greatest accruacy on predicting a user's rating of a movie.   
+This project tested Time Series Models.     
 
-![images](images/movie_recommendations.png)
 
 ## Results
 
@@ -34,11 +33,11 @@ This result was the best out of the three models that were tested.
 
 ## Conclusions and next steps
 
-The smaller dataset was used for this project.  The larger dataset has over 58,000 movies and over 280,000 users.  Will the SVD model provide the best model and results?
+The models were tested using only two stocks.  The model should be tested on more stocks.  
 
-New users should continue to be added and the recommendations should be checked.
+It would be interesting to see if there are any changes to the results if more than one year of stock prices is used.
 
-Consider adding new items to the dataset such as television shows.  This will give the potential customers more options.  
+The financial statements should also be analyzed.
 
 ## For More Information
 
@@ -51,6 +50,6 @@ For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmai
 
 ```
 ├── README.md   
-├── Movielens_presentation.pdf
+├── Stock_presentation.pdf
 ├── images            
-└── Movielens_Analysis.ipynb 
+└── Capstone.ipynb 
