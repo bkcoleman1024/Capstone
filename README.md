@@ -1,5 +1,5 @@
 # Capstone
-# MovieLens Analysis
+# Stock Analysis
 
 **Author**: Bridget Coleman
 
